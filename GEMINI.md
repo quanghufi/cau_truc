@@ -75,3 +75,11 @@
 
 - [Gotchas — điều phải biết để tránh lỗi]
 - [Things to avoid — anti-patterns]
+
+## Anti-Overthinking
+- Task đơn giản, rõ ràng → sửa trực tiếp, không mở rộng scope ngoài task
+- Explanation ngắn hơn code change
+- Không refactor ngoài scope
+- User nói "làm đi" → execute, không hỏi
+- Bug rõ → fix luôn
+- ⚠️ Task phức tạp, high-risk → vẫn cần plan mode + verify trước khi done

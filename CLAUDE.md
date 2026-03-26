@@ -82,3 +82,13 @@
 3. Mark items complete as you go
 4. Provide high-level summary at each step
 5. Capture lessons in `tasks/lessons.md` after corrections
+
+## Anti-Overthinking
+- Task đơn giản, rõ ràng → sửa trực tiếp, không plan mode
+- Nếu explanation dài hơn code change → viết ngắn lại  
+- Không refactor code không liên quan đến task hiện tại
+- Không đề xuất "improvements" khi không được hỏi
+- Khi user nói "làm đi" → execute ngay, không hỏi lại
+- Bug rõ ràng → fix luôn, không giải thích dài dòng
+- ⚠️ Task phức tạp, high-risk, hoặc kiến trúc → vẫn cần plan/clarification
+- ⚠️ Luôn verify trước khi mark done

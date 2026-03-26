@@ -84,3 +84,13 @@ project/
 - [Anti-pattern 1 — ví dụ: Modify evidence files]
 - [Anti-pattern 2 — ví dụ: Use exec() for production]
 - [Gotcha 1 — ví dụ: Count TIMEOUT as passing test]
+
+## Anti-Overthinking
+- Simple, low-risk tasks → fix directly, no plan mode
+- If explanation is longer than code change → shorten it
+- Don't refactor unrelated code
+- Don't suggest "improvements" unless asked
+- When user says "do it" → execute immediately
+- Obvious bugs → just fix, minimal explanation
+- ⚠️ Complex, high-risk, or architectural changes → still require plan/clarification
+- ⚠️ Always verify before marking done
