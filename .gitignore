@@ -1,0 +1,45 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment
+.env
+.env.local
+.env.production
+
+# Build output
+dist/
+build/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# AI Agent local configs (KHÔNG commit - chứa local settings)
+.claude/
+.codex/
+.agents/
+
+# AI Agent context files (NÊN commit - đã track ở root)
+# CLAUDE.md      → ✅ commit
+# AGENTS.md      → ✅ commit
+# GEMINI.md      → ✅ commit
+# .gemini/       → ✅ commit (trừ cache)
+# .agent/        → ✅ commit (workflows, skills)
+# tasks/         → ✅ commit
+# docs/          → ✅ commit
+# .feedback/     → tùy team
+
+# Logs
+*.log
+logs/
